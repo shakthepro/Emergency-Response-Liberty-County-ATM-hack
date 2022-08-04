@@ -1,0 +1,8 @@
+"""
+this folder contains code from the youtube channel learncodebygaming
+find this code in the github repo:
+https://github.com/learncodebygaming/opencv_tutorials
+
+lots of great tutorials on opencv and everything related.
+
+"""
